@@ -12,3 +12,6 @@ x = 5;
 y = 6;
 z = x + y;
 ```
+- [ ] Dark mode
+- [x] Glorious purpose
+- [x] loki
